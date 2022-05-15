@@ -1,0 +1,15 @@
+.nav {
+  width: 80%;
+  background-color: #3333;
+  height: 25px;
+  display: flex;
+  justify-content: space-between;
+}
+.nav a {
+  color: white;
+  text-decoration: none;
+  transition: 0.5s;
+}
+.nav a:hover {
+  color: red;
+}

@@ -1,0 +1,9 @@
+.container {
+  background-image: url("../../assets/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
